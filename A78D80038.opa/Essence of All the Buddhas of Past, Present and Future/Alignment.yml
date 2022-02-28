@@ -1,0 +1,19 @@
+segment_sources:
+  P2CA048CE:
+    type: origin_type
+    relation: translation
+    language: en
+  P4D4F7C47:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ddba9f13a19e4f37b075064a085c219f:
+    P2CA048CE: fe507cf5db5a46c1af94c27d5a9dc388
+    P4D4F7C47: 2ebe0573cfd14ffaad3f8da805c50231
+  470d8f4b2f1949b395aae9a410de2f22:
+    P2CA048CE: 18bee0edfe954640b0bb80cec110d964
+    P4D4F7C47: f3c74240dab4453ea5d4ee85d6494baf
+  53cfce597aff472bb631d138e84d0ee2:
+    P2CA048CE: 0cf4b127ee0741afb7f994a009117374
+    P4D4F7C47: ed5d88dc502643979c11dc56029c577a
